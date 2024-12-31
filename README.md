@@ -7,4 +7,5 @@
 ### Spring Boot with Prometheus and Grafana. Local setup included
 - => https://tayjava.vn/giam-sat-he-thong-voi-grafana-va-prometheus
 
-### Full implementation here => https://github.com/vhphong/integration-prometheus-grafana/blob/master/Prometheus_Grafana.pdf
+### Full implementation here 
+- => https://github.com/vhphong/integration-prometheus-grafana/blob/master/Prometheus_Grafana.pdf
