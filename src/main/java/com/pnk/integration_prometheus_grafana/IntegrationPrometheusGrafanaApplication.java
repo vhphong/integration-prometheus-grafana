@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class IntegrationPrometheusGrafanaApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(IntegrationPrometheusGrafanaApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(IntegrationPrometheusGrafanaApplication.class, args);
+    }
 
 }
